@@ -9,4 +9,6 @@ If you benefitted from this repo, please consider showing your appreciation [her
 
 Any ideas to improve this repository or include your own work in this repository is appreciated. I can be best reached at @Sushil in the course's slack. Feel free to drop a message or at least say 'Hi'.
 
+Star this page to follow my updates.
 Thank you.
+
