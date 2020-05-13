@@ -7,6 +7,8 @@ The solution to weekly challenges are my own work. You should **never** submit t
 
 If you benefitted from this repo, please consider showing your appreciation [here](https://www.buymeacoffee.com/ey0XpgZ) :)
 
-Any ideas to improve this repository or include your own work in this repository is appreciated. I can be best reached at @Sushil in the course's slack. Feel free to DM me or say Hi.
+Any ideas to improve this repository or include your own work in this repository is appreciated. I can be best reached at @Sushil in the course's slack. Feel free to drop a message or at least say 'Hi'.
 
+Star ⭐ this page to follow my updates.
 Thank you.
+

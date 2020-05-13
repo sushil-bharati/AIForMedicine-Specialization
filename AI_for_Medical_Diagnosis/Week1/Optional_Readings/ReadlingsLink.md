@@ -1,5 +1,5 @@
 [CheXNet paper Dec2017](https://arxiv.org/pdf/1711.05225.pdf])  
-[ChexNeXt paper Nov2018](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002686&type=printable])  
+[ChexNeXt paper Nov2018](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002686&type=printable)  
 [CheXpert paper Jan2019](https://arxiv.org/pdf/1901.07031.pdf])  
 [Grad-CAM paper Dec2019](https://arxiv.org/pdf/1610.02391.pdf)  
 [ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
