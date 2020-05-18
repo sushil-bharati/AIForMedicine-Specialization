@@ -1,0 +1,8 @@
+[Axial, Coronal and Sagittal Planes for MRI Scans](https://www.ipfradiologyrounds.com/_images/reconstruction-planes.png)  
+[Convolutional Neural Network Course - Coursera](https://www.coursera.org/learn/convolutional-neural-networks)  
+[U-Net homepage](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)  
+[More details on U-Net](https://towardsdatascience.com/u-net-b229b32b4a71)  
+[U-Net paper](https://arxiv.org/pdf/1505.04597.pdf)  
+[3D U-Net paper](https://arxiv.org/pdf/1606.06650.pdf)  
+[U-Net wiki page](https://en.wikipedia.org/wiki/U-Net)  
+[How to seed for reproducibility - Stack Overflow](https://stackoverflow.com/questions/32419510/how-to-get-reproducible-results-in-keras)  
