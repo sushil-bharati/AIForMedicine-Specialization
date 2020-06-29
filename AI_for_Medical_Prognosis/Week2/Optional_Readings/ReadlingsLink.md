@@ -1,0 +1,5 @@
+[Handling missing data from Pie & AI Kolkata Session](https://www.youtube.com/watch?v=wY9vfDebn7w)  
+[Gradient Boosting Machines, A Tutorial](https://www.researchgate.net/publication/259653472_Gradient_Boosting_Machines_A_Tutorial)  
+[XGBoost Paper](https://arxiv.org/pdf/1603.02754.pdf)  
+[LightGBM](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)  
+[TreeShap paper](https://arxiv.org/pdf/1802.03888.pdf)  
