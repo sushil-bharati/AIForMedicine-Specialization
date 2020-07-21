@@ -1,4 +1,4 @@
-# AIForMedicine-Specialization
+# AIForMedicine-Specialization [![HitCount](http://hits.dwyl.com/sushil-bharati/AIForMedicine-Specialization.svg)](http://hits.dwyl.com/sushil-bharati/AIForMedicine-Specialization)
 Coursera's AI For Medicine Specialization Coursework
 
 [Course Link](https://www.coursera.org/specializations/ai-for-medicine)
